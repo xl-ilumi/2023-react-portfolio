@@ -28,6 +28,7 @@
 
 .work__data {
 	margin-bottom: var(--mb-0-5);
+	white-space: pre-wrap;
 }
 
 .work__data-title {
