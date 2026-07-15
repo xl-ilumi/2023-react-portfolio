@@ -5,6 +5,9 @@ export const projectsData = [
     calculator: "재직중",
     position: "Frontend 팀 리더 / 프리랜서",
     skill: [
+      "Claude Code",
+      "Antigravity",
+      "Figma MCP",
       "Next.js 15",
       "Redux",
       "Zustand",
