@@ -1,6 +1,12 @@
 export const projectsData = [
   {
     title: "신세계백화점 여행 콘텐츠 웹 구축 및 리딩",
+    url: [
+      {
+        name: "https://www.viashinsegae.com/ko (26.09 런칭예정)",
+        link: "https://www.viashinsegae.com/ko",
+      },
+    ],
     date: "2026.02 - 재직중",
     calculator: "재직중",
     position: "Frontend 팀 리더 / 프리랜서",
@@ -38,6 +44,12 @@ export const projectsData = [
   },
   {
     title: "신세계백화점 여행 콘텐츠 앱",
+    url: [
+      {
+        name: "https://www.viashinsegae.com/ko",
+        link: "https://www.viashinsegae.com/ko",
+      },
+    ],
     date: "2025.02 - 재직중",
     calculator: "재직중",
     position: "Frontend / 프리랜서",
@@ -71,6 +83,12 @@ export const projectsData = [
   },
   {
     title: "네오싸이언 컬리몰 이벤트개발팀",
+    url: [
+      {
+        name: "웰컴쿠폰 외 다수의 이벤트페이지, 이벤트 특성상 기간 종료 시 접근불가",
+        link: "https://event.kurly.com/lego/event/2023/0911/join/coupon",
+      },
+    ],
     date: "2023.04 - 2024.12",
     calculator: "1년 9개월",
     position: "Frontend / 프리랜서",
@@ -117,6 +135,12 @@ export const projectsData = [
   },
   {
     title: "삼성SDS 웰스토리몰 고도화",
+    url: [
+      {
+        name: "임직원몰로 로그인페이지만 접근 가능",
+        link: "https://www.welstorymall.com/login",
+      },
+    ],
     date: "2023.01 - 2023.03",
     calculator: "2개월",
     position: "Frontend / 프리랜서",
@@ -141,6 +165,12 @@ export const projectsData = [
   },
   {
     title: "교육부 나이스 시스템 고도화",
+    url: [
+      {
+        name: "https://www.neis.go.kr/",
+        link: "https://www.neis.go.kr/",
+      },
+    ],
     date: "2022.01 - 2022.11",
     calculator: "11개월",
     position: "Fontend & Backend",
@@ -150,6 +180,12 @@ export const projectsData = [
   },
   {
     title: "대법원 전자증명서 발급 서비스 개발 및 고도화",
+    url: [
+      {
+        name: "https://efamily.scourt.go.kr/",
+        link: "https://efamily.scourt.go.kr/",
+      },
+    ],
     date: "2021.05 - 2021.12",
     calculator: "7개월",
     position: "Fontend",
@@ -160,6 +196,12 @@ export const projectsData = [
   },
   {
     title: "대법원 특정증명서 발급 서비스 개발 및 고도화",
+    url: [
+      {
+        name: "https://efamily.scourt.go.kr/",
+        link: "https://efamily.scourt.go.kr/",
+      },
+    ],
     date: "2022.01 - 2021.03",
     calculator: "1년 2개월",
     position: "Fontend",
@@ -171,6 +213,12 @@ export const projectsData = [
   },
   {
     title: "그랜드코리아레저 고객관리시스템 고도화",
+    url: [
+      {
+        name: "내부시스템으로 공개 URL 없음",
+        link: "",
+      },
+    ],
     date: "2018.07 - 2018.08",
     calculator: "2개월",
     position: "Fontend & Backend / 프리랜서",
@@ -188,6 +236,44 @@ export const projectsData = [
   },
   {
     title: "웹에이전시 고객사 홈페이지 제작",
+    url: [
+      {
+        name: "생각더하기느낌",
+        link: "https://www.thinkplusfeel.com/",
+      },
+      {
+        name: "뷰랩 성형커뮤니티 앱",
+        link: "https://beaulabs.co.kr/",
+      },
+      {
+        name: "예정홀릭성형외과",
+        link: "http://ye-jung.com/",
+      },
+      {
+        name: "아이콘성형외과",
+        link: "http://www.iconps.co.kr/",
+      },
+      {
+        name: "메이린클리닉",
+        link: "https://maylin.co.kr/",
+      },
+      {
+        name: "VIP성형외과",
+        link: "https://www.vipps.kr/",
+      },
+      {
+        name: "스탠다드치과",
+        link: "https://www.standard-dental.co.kr/",
+      },
+      {
+        name: "오인성형외과",
+        link: "https://www.oinps.co.kr/",
+      },
+      {
+        name: "법무법인통",
+        link: "https://www.lawfirmtong.com/",
+      },
+    ],
     date: "2015.09 - 2017.10",
     calculator: "약 2년",
     position: "Fontend & Backend",
